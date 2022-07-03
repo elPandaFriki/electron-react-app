@@ -1,8 +1,8 @@
 {
-  "name": "electron-react-app",
-  "productName": "electron-react-app",
+  "name": "panda_app",
+  "productName": "PandaApp",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "El Panda Friki's Electron application",
   "main": "dist/index.js",
   "scripts": {
     "start": "nf start -p 3000",

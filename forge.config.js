@@ -23,7 +23,7 @@ module.exports = {
         iconURL: icon,
         setupIcon: icon,
         noMsi: true,
-        setupExe: name,
+        setupExe: `${name}.exe`,
         version,
       },
     },
